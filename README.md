@@ -1,4 +1,4 @@
-🌦️ React Weather App
+#🌦️ React Weather App
 A simple and responsive weather application built with pure React. This minor project fetches real-time weather data using the OpenWeatherMap API and displays current weather conditions for any city.
 
 🔧 Features
