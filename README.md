@@ -42,19 +42,19 @@ Follow the steps below to run the project locally:
 5. 🌐 Open your browser and go to:
     http://localhost:5173
 
-##🖼️ Screenshots
+## 🖼️ Screenshots
   Sooonn....!!!
 
-##🌍 Live Demo
+## 🌍 Live Demo
   Coming soon...
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you’d like to improve the app, fix a bug, or suggest a feature:
 Fork the repo
 Make your changes
 Submit a pull request 🙌
 
-##📝 License
+## 📝 License
 This project is licensed under the MIT License.
 
 ## Made with ❤️ using React
