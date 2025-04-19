@@ -1,29 +1,62 @@
-#🌦️ React Weather App
-A simple and responsive weather application built with pure React. This minor project fetches real-time weather data using the OpenWeatherMap API and displays current weather conditions for any city.
+# 🌦️ React Weather App
 
-🔧 Features
-🌍 Search weather by city name
+A clean and minimal weather application built using **pure React**, powered by the **🌐 OpenWeatherMap API**. This project allows users to check current weather information for any city in real-time with a responsive and user-friendly interface.
 
-📡 Real-time data fetched from OpenWeather API
+## ✨ Features
 
-🌡️ Displays temperature, weather condition, humidity, and wind speed
+- 🔍 Search weather by city name  
+- 🌡️ Real-time weather data including:
+  - Temperature 🌡️
+  - Weather condition ☁️ / 🌧️ / ☀️
+  - Humidity 💧
+  - Wind speed 🌬️  
+- ⚛️ Built with React functional components and Hooks  
+- 📱 Fully responsive design for mobile & desktop
 
-📱 Fully responsive design for mobile and desktop
+## 🛠️ Tech Stack
 
-⚛️ Built using functional components and React Hooks
+- ⚛️ React (with Vite + Hooks)
+- 🌐 OpenWeatherMap API
+- 🎨 CSS (custom styling)
 
-🛠️ Tech Stack
-React (Pure)
+## 🚀 Getting Started
 
-OpenWeatherMap API
+Follow the steps below to run the project locally:
 
-CSS for styling
+1. 📁 **Clone the repository**  
+   ```bash
+   git clone https://github.com/siddhu_reddy06/Weather-App.git
+   cd Weather-App
 
-🚀 How to Run
-Clone the repo
+2. 📦 Install dependencies
+   npm install
 
-Run npm install to install dependencies
+3. 🔑 Add your OpenWeatherMap API key
+   Create a .env file in the root directory and add:
+  VITE_WEATHER_API_KEY=your_api_key_here
+  👉 Get your free API key here: https://openweathermap.org/api
 
-Replace "API_KEY" with your actual OpenWeather API key
+4. ▶️ Start the development server
+   npm run dev
 
-Run npm start to launch the app
+5. 🌐 Open your browser and go to:
+    http://localhost:5173
+
+##🖼️ Screenshots
+  Sooonn....!!!
+
+##🌍 Live Demo
+  Coming soon...
+
+##🤝 Contributing
+Contributions are welcome! If you’d like to improve the app, fix a bug, or suggest a feature:
+Fork the repo
+Make your changes
+Submit a pull request 🙌
+
+##📝 License
+This project is licensed under the MIT License.
+
+## Made with ❤️ using React
+
+
