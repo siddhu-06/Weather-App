@@ -24,6 +24,6 @@ Clone the repo
 
 Run npm install to install dependencies
 
-Replace "YOUR_API_KEY" with your actual OpenWeather API key
+Replace "API_KEY" with your actual OpenWeather API key
 
 Run npm start to launch the app
